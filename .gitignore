@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# python environment
+kratos_env/
+.env/
+venv/
+
+# simulation output
+*.vtk
+*.gid
+post_ptocessing/
